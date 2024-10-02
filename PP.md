@@ -4,8 +4,7 @@ Last updated: [Current Date]
 
 ## 1. Introduction
 
-Welcome to DiaSync. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy or our practices with regards to your personal information, please contact us at [contact email].
-
+Welcome to DiaSync. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy or our practices with regards to your personal information.
 This Privacy Policy governs the privacy policies and practices of our DiaSync Application, hereinafter referred to as 'Application'. Please read our Privacy Policy carefully as it will help you make informed decisions about sharing your personal information with us.
 
 ## 2. Information We Collect
@@ -28,8 +27,6 @@ As a Diabetes management application, DiaSync collects and processes various typ
 - Physical activity data
 
 2.3. Device Information:
-- Device type
-- Operating system
 - Unique device identifiers
 - Mobile network information
 
@@ -74,7 +71,7 @@ You have certain data protection rights. If you wish to be informed what persona
 
 ## 8. Children's Privacy
 
-Our Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+Our Application does not address anyone under the age of 16. We do not knowingly collect personally identifiable information from children under 16.
 
 ## 9. Changes to This Privacy Policy
 
@@ -84,10 +81,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 While we strive to protect your personal information and privacy, we cannot guarantee the absolute security of any information you transmit to us or guarantee that your information on the Application may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-## 11. Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at:
-
-[DiaSync Contact Information]
 
 By using DiaSync, you hereby consent to our Privacy Policy and agree to its terms.
